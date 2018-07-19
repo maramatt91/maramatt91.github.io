@@ -1,0 +1,49 @@
+html 
+{
+    background-image: url(../images/ArtboardA.png), url(../images/ArtboardB.png);
+    background-position: top left, top right;
+    background-repeat: no-repeat;
+    background-size: 650px, 650px;
+    background-attachment: fixed;
+}
+body
+{
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+}
+img
+{
+    border: 5px solid black;
+}
+a 
+{
+    font-size: 15pt;
+    color: white;
+    text-decoration: none;
+    
+}
+nav
+{
+    background-color: black;
+    width: 970px;
+    margin-right: auto;
+    margin-left: auto;
+    font-family: 'Geo';
+    font-size: 18pt;
+    color: white;
+    text-align: center;
+    word-spacing: 25px;
+}
+p
+{
+    background-color: black;
+    width: 930px;
+    margin-right: auto;
+    margin-left: auto;
+    font-family: 'Ubuntu Mono';
+    font-size: 15pt;
+    line-height: 25px;
+    color: white;
+    padding: 20px;
+}
